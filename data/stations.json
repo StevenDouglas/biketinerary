@@ -1,0 +1,11 @@
+[{name: "University Village", lat: -96.7978, lon: 46.90244, docks: 22, solar: true},
+{name: "Wallman Wellness Center", lat: -96.80747, lon: 46.89483, docks: 11, solar: true},
+{name: "High Rise Complex", lat: -96.80257, lon: 46.89695, docks: 18, solar: true},
+{name: "Sanford Medical Center", lat: -96.78766, lon: 46.88471, docks: 11, solar: true},
+{name: "Fercho YMCA", lat: -96.78644, lon: 46.8731, docks: 14, solar: true},
+{name: "Barry Hall", lat: -96.79275, lon: 46.87917, docks: 18, solar: true},
+{name: "US Bank Plaza", lat: -96.78745, lon: 46.8783, docks: 17, solar: true},
+{name: "Renaissance Hall", lat: -96.78996, lon: 46.87581, docks: 14, solar: true},
+{name: "Memorial Union", lat: -96.80095, lon: 46.89248, docks: 15, solar: true},
+{name: "Great Northern Bicycle Co.", lat: -96.7874, lon: 46.8811, docks: 11, solar: false},
+{name: "MATBUS Center Downtown", lat: -96.78567, lon: 46.8758, docks: 9, solar: false}]
